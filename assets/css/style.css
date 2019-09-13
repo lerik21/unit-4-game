@@ -1,0 +1,70 @@
+body {
+    background-image: url("matrix.jpg");
+    background-color: black
+    
+    
+    
+}
+
+h1 {
+    background-color: orangered;
+    color: white;
+    
+
+    
+
+}
+
+.container {
+    background-color: blueviolet;
+    width: 50%;
+    float: left;
+    clear: auto;
+    
+
+
+}
+
+.counter {
+    clear: left;
+}
+
+.gems {
+    clear: left
+}
+
+p {
+    color: chartreuse;
+    
+   
+}
+#winsLosses {
+    background-color: aqua;
+    width: 100px;
+    height: 150px;
+    color: white;
+    margin-top: 10px;
+
+   
+    
+}
+
+#score {
+   
+    background-color: teal;
+    color: white
+}
+
+#randomNumber {
+    background-color: green;
+    width: 300px;
+    height: 150px;
+    margin-top: 10px;
+    
+}
+
+.currentScore {
+    background-color: teal;
+    width: 357px;
+    height: 150px;
+}
